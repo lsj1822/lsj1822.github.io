@@ -15,6 +15,7 @@ Outside of research, I am a Student Ambassador for [Princeton University Concert
 
 ## News
 
+**[Nov '25]** I am serving on the AEC at [USENIX Security '26](https://www.usenix.org/conference/usenixsecurity26).<br>
 **[Oct '25]** I am serving on the PC at [FOCI '26](https://foci.community).<br>
 **[Oct '25]** QUICstep has won the [Andreas Pfitzmann Best Student Paper Award](https://petsymposium.org/2026/student-paper-award.php) at PETS '26!<br>
 **[Oct '25]** I will be giving a talk on QUICstep at the [MadS&P Seminar](https://madsp.cs.wisc.edu/sp-seminar/20251027-seungju_lee/) in the University of Wisconsin-Madison.<br>
